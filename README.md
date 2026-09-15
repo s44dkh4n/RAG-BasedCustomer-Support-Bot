@@ -67,3 +67,4 @@ python ingest_cli.py
 ```
 streamlit run app.py
 ```
+### Note: This is a demo project created just to apply the techniques i Learned and the performance of the ChatBot is not exemplary.
