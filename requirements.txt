@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-huggingface
+semantic-router
+python-dotenv
+pypdf
+streamlit
